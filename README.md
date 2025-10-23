@@ -52,7 +52,7 @@ Kullanıcı isterse kayıt klasörünü değiştirebilir.
 
 ## Ekran
 
-<img width="1129" height="838" alt="image" src="https://github.com/user-attachments/assets/31b8e317-1400-4aaf-9b63-8eb57818a802" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/31b8e317-1400-4aaf-9b63-8eb57818a802" />
 
 ## 🧩 Geliştirici Notları
 
