@@ -35,23 +35,8 @@ Bu proje, **kamera görüntüsünden insan/yüz algılama**, **ekran kaydı alma
    ```bash
    pip install opencv-python pyqt6 numpy mss python-dotenv
 
-⚙️ Proje Yapısı
-insan-algilama/
-│
-├── app.py                # Ana uygulama arayüzü (PyQt)
-├── face_detect_basic.py  # Temel yüz algılama test kodu
-│
-├── detectors/
-│   └── screenrec.py      # Ekran kaydı alma modülü
-│
-├── utils/
-│   └── alerts.py         # E-posta gönderim fonksiyonları
-│
-├── kayitlar/             # Fotoğraf ve video kayıtları
-└── .env                  # E-posta bilgilerini içeren dosya
 
-
-🧠 Çalışma Prensibi
+##🧠 Çalışma Prensibi
 
 Kullanıcı “Kamerayı Başlat” butonuna basar.
 
@@ -65,7 +50,7 @@ Sesli veya popup uyarı gösterilir.
 
 Kullanıcı isterse kayıt klasörünü değiştirebilir.
 
-🧩 Geliştirici Notları
+##🧩 Geliştirici Notları
 
 Algılama performansı, çözünürlük ve detect_scale parametresiyle ayarlanabilir.
 
@@ -73,6 +58,6 @@ GPU destekli OpenCV (opencv-contrib-python) kurulumu performansı artırabilir.
 
 Kod yapısı modülerdir — yeni algılama modelleri (ör. DNN, YOLO) kolayca eklenebilir.
 
-👨‍💻 Geliştirici
+##👨‍💻 Geliştirici
 
 Barış Koçyiğit
