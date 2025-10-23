@@ -36,7 +36,7 @@ Bu proje, **kamera görüntüsünden insan/yüz algılama**, **ekran kaydı alma
    pip install opencv-python pyqt6 numpy mss python-dotenv
 
 
-##🧠 Çalışma Prensibi
+## 🧠 Çalışma Prensibi
 
 Kullanıcı “Kamerayı Başlat” butonuna basar.
 
@@ -50,7 +50,7 @@ Sesli veya popup uyarı gösterilir.
 
 Kullanıcı isterse kayıt klasörünü değiştirebilir.
 
-##🧩 Geliştirici Notları
+## 🧩 Geliştirici Notları
 
 Algılama performansı, çözünürlük ve detect_scale parametresiyle ayarlanabilir.
 
@@ -58,6 +58,6 @@ GPU destekli OpenCV (opencv-contrib-python) kurulumu performansı artırabilir.
 
 Kod yapısı modülerdir — yeni algılama modelleri (ör. DNN, YOLO) kolayca eklenebilir.
 
-##👨‍💻 Geliştirici
+## 👨‍💻 Geliştirici
 
 Barış Koçyiğit
